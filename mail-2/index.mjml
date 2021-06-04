@@ -25,7 +25,7 @@
     <!-- Company Header -->
     <mj-section background-color='#ffffff' css-class='header' padding="0">
       <mj-column padding="0">
-        <mj-image src="https://github.com/MaxStetsenko/Coinmama-mails/blob/main/mail-1/Header.jpg?raw=true" padding="0">
+        <mj-image src="https://github.com/MaxStetsenko/Coinmama-mails/blob/main/mail-2/header.png?raw=true" padding="0">
       </mj-column>
     </mj-section>
     <mj-section background-color='#ffffff' css-class=" banner">
