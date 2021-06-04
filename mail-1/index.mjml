@@ -1,0 +1,93 @@
+<mjml>
+  <mj-head>
+    <mj-title>Coinmama</mj-title>
+    <mj-font name="Cabin" href="https://fonts.googleapis.com/css2?family=Cabin:wght@400;500&display=swap" />
+    <mj-attributes>
+      <mj-all font-family="Cabin,RobotoDraft,Helvetica,Arial,sans-serif" />
+    </mj-attributes>
+    <mj-style>
+      .mail-wrap {
+        background: #fff !important;
+      }
+
+      .header {}
+
+      .text span {
+        font-size: 20px !important;
+        font-weight: 400 !important;
+        color: #000000 !important;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body css-class='mail-wrap' width='600px'>
+    <!-- Company Header -->
+    <mj-section css-class='header' padding="0">
+      <mj-column padding="0">
+        <mj-image src="header.jpg" padding="0">
+      </mj-column>
+    </mj-section>
+    <mj-section css-class=" banner">
+      <mj-column padding-top='10px' padding-bottom='10px'>
+        <mj-image src="banner.jpg">
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0">
+      <mj-column>
+        <mj-text font-family="Arial" css-class="text" letter-spacing="0.4px">
+          <span style="line-height:30px" font-weight='400'>Hi (user’s name),</span>
+        </mj-text>
+        <mj-text font-family="Arial" css-class="text" padding-top="26px" letter-spacing="0.4px">
+          <span style="line-height:30px" font-weight='400'>Welcome to the crypto revolution - how nice of you to join us!</span>
+        </mj-text>
+        <mj-text font-family="Arial" css-class="text" padding-top="26px" letter-spacing="0.4px">
+          <span style="line-height:30px" font-weight="400" letter-spacing='2em'>It looks like your account is good to go. The crypto world is right at your fingertips and the ball is in your court. What will your next move be?</span>
+        </mj-text>
+        <mj-text font-family="Arial" css-class="text" padding-top="26px" padding-bottom="30px" letter-spacing="0.4px">
+          <span style="line-height:30px" font-weight="400">Let me know what you need to get started 🙋‍♀️</span>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding='0px'>
+      <mj-column>
+        <mj-image css-class='btn-more' width='186px' src='btn1.png' padding-bottom='0px' href='https://www.google.com.ua/' target="_blank"></mj-image>
+        <mj-text font-family="Cabin, Arial" align='center' font-size="18px" padding-top="28px" padding-bottom="40px">
+          <a style="color:#002C7F" font-weight="400" href="https://www.google.com.ua/" target="_blank">Talk to a customer support representative</a>
+        </mj-text>
+        <mj-divider border-width="2px" border-style="solid" border-color="#002C7F" padding="0" />
+      </mj-column>
+    </mj-section>
+    <!-- footer -->
+    <mj-section padding="0">
+      <mj-column padding-top="40px">
+        <mj-image width="120px" src="logo.png" href="https://www.coinmama.com/" target="_blank"></mj-image>
+        <mj-text align="center" font-family="Arial" font-size="13px"><span style="line-height:20px">You are receiving this email because you opted in via our </br>website. </span></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0">
+      <mj-group width="124px">
+        <mj-column vertical-align="middle" width="33.333%">
+          <mj-image align="right" padding="0" width="24px" height="24px" src="twitter.png" href="https://www.coinmama.com/"></mj-image>
+        </mj-column>
+        <mj-column vertical-align="middle" width="33.333%">
+          <mj-image width="24px" padding="0" height="24px" src="telegram.png" href="https://www.coinmama.com/"></mj-image>
+        </mj-column>
+        <mj-column vertical-align="middle" width="33.333%">
+          <mj-image align="left" padding="0" width="24px" height="24px" src="in.png" href="https://www.coinmama.com/"></mj-image>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text align="center" font-family="Arial" font-size="13px" padding-bottom="2px">
+          <span>Address, #PC</span>
+        </mj-text>
+        <mj-text align="center" font-family="Arial" font-size="13px" padding-bottom="10px">
+          <span>City, State.</span>
+        </mj-text>
+        <mj-text align="center" font-family="Arial" font-size="13px" padding-bottom="30px">
+          <a href="mailto:mail.com?subject=Unsubscribe" target="_blank" style="color: #000000; text-decoration: underline;">Unsubscribe</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
