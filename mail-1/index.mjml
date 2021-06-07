@@ -61,20 +61,20 @@
     <!-- footer -->
     <mj-section background-color='#ffffff' padding="0">
       <mj-column padding-top="40px">
-        <mj-image container-background-color="#ffffff" width="120px" src="https://github.com/MaxStetsenko/Coinmama-mails/blob/main/mail-1/logo.png?raw=true" href="https://www.coinmama.com/" target="_blank"></mj-image>
+        <mj-image container-background-color="#ffffff" width="120px" src="https://github.com/MaxStetsenko/Coinmama-mails/blob/main/mail-1/logo.jpg?raw=true" href="https://www.coinmama.com/" target="_blank"></mj-image>
         <mj-text align="center" padding-left="0" padding-right="0" font-family="Arial" font-size="13px"><span style="line-height:20px">You are receiving this email because you opted in via our </br>website. </span></mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color='#ffffff' padding="0">
       <mj-group css-class="socials-container" width="124px">
         <mj-column vertical-align="middle" width="33.333%">
-          <mj-image container-background-color="#ffffff" align="right" padding="0" width="24px" height="24px" src="https://github.com/MaxStetsenko/Coinmama-mails/blob/main/mail-1/twitter.png?raw=true" href="https://www.coinmama.com/"></mj-image>
+          <mj-image container-background-color="#ffffff" align="right" padding="0" width="24px" height="24px" src="https://github.com/MaxStetsenko/Coinmama-mails/blob/main/mail-1/twitter.jpg?raw=true" href="https://www.coinmama.com/"></mj-image>
         </mj-column>
         <mj-column vertical-align="middle" width="33.333%">
-          <mj-image container-background-color="#ffffff" width="24px" padding="0" height="24px" src="https://github.com/MaxStetsenko/Coinmama-mails/blob/main/mail-1/telegram.png?raw=true" href="https://www.coinmama.com/"></mj-image>
+          <mj-image container-background-color="#ffffff" width="24px" padding="0" height="24px" src="https://github.com/MaxStetsenko/Coinmama-mails/blob/main/mail-1/telegram.jpg?raw=true" href="https://www.coinmama.com/"></mj-image>
         </mj-column>
         <mj-column vertical-align="middle" width="33.333%">
-          <mj-image container-background-color="#ffffff" align="left" padding="0" width="24px" height="24px" src="https://github.com/MaxStetsenko/Coinmama-mails/blob/main/mail-1/in.png?raw=true" href="https://www.coinmama.com/"></mj-image>
+          <mj-image container-background-color="#ffffff" align="left" padding="0" width="24px" height="24px" src="https://github.com/MaxStetsenko/Coinmama-mails/blob/main/mail-1/in.jpg?raw=true" href="https://www.coinmama.com/"></mj-image>
         </mj-column>
       </mj-group>
     </mj-section>
