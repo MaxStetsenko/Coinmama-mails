@@ -48,7 +48,7 @@
     </mj-section>
     <mj-section background-color='#ffffff' padding='0px'>
       <mj-column>
-        <mj-image css-class='btn-more' width='186px' src='https://github.com/MaxStetsenko/Coinmama-mails/blob/main/mail-1/btn1.png?raw=true' padding-bottom='0px' href='https://www.coinmama.com/login' target="_blank" alt="Buy Bitcoin instantly"></mj-image>
+        <mj-image css-class='btn-more' width='186px' src='https://github.com/MaxStetsenko/Coinmama-mails/blob/main/mail-2/btn1.png?raw=true' padding-bottom='0px' href='https://www.coinmama.com/login' target="_blank" alt="Buy Bitcoin instantly"></mj-image>
         <mj-text font-family="Cabin, Arial" align='center' font-size="18px" padding-top="28px" padding-bottom="40px">
           <a style="color:#002C7F" font-weight="400" href="https://support.coinmama.com/hc/en-us" target="_blank">Speak to my account manager</a>
         </mj-text>
