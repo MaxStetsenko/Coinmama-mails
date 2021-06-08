@@ -25,27 +25,29 @@
     <!-- Company Header -->
     <mj-section background-color='#ffffff' css-class='header' padding="0">
       <mj-column padding="0">
-        <mj-image src="https://github.com/MaxStetsenko/Coinmama-mails/blob/main/mail-1/Header.jpg?raw=true" alt="Coinmama" padding="0">
+        <mj-image src="https://github.com/MaxStetsenko/Coinmama-mails/blob/main/mail-3/Header.jpg?raw=true" alt="Coinmama" padding="0">
       </mj-column>
     </mj-section>
     <mj-section background-color='#ffffff' css-class=" banner">
       <mj-column padding-top='10px' padding-bottom='10px'>
-        <mj-image src="https://github.com/MaxStetsenko/Coinmama-mails/blob/main/mail-1/banner.jpg?raw=true" alt="Banner BTC">
+        <mj-image src="https://github.com/MaxStetsenko/Coinmama-mails/blob/main/mail-3/banner.jpg?raw=true" alt="Banner BTC">
       </mj-column>
     </mj-section>
     <mj-section background-color='#ffffff' padding="0">
+      Hi (user’s name),
+
+
+
+
       <mj-column>
         <mj-text font-family="Arial" css-class="text" letter-spacing="0.4px">
           <span style="line-height:30px" font-weight='400'>Hi (user’s name),</span>
         </mj-text>
         <mj-text font-family="Arial" css-class="text" padding-top="26px" letter-spacing="0.4px">
-          <span style="line-height:30px" font-weight='400'>Welcome to the crypto revolution - how nice of you to join us!</span>
-        </mj-text>
-        <mj-text font-family="Arial" css-class="text" padding-top="26px" letter-spacing="0.4px">
-          <span style="line-height:30px" font-weight="400" letter-spacing='2em'>It looks like your account is good to go. The crypto world is right at your fingertips and the ball is in your court. What will your next move be?</span>
+          <span style="line-height:30px" font-weight='400'>We’re so happy you chose us to be a part of your crypto journey, congratulations on taking the first step to financial freedom 💸</span>
         </mj-text>
         <mj-text font-family="Arial" css-class="text" padding-top="26px" padding-bottom="30px" letter-spacing="0.4px">
-          <span style="line-height:30px" font-weight="400">Let me know what you need to get started 🙋‍♀️</span>
+          <span style="line-height:30px" font-weight="400">Your accounts are all set up and ready to go. All that’s left is for you to complete an order.</span>
         </mj-text>
       </mj-column>
     </mj-section>

@@ -25,27 +25,24 @@
     <!-- Company Header -->
     <mj-section background-color='#ffffff' css-class='header' padding="0">
       <mj-column padding="0">
-        <mj-image src="https://github.com/MaxStetsenko/Coinmama-mails/blob/main/mail-1/Header.jpg?raw=true" alt="Coinmama" padding="0">
+        <mj-image src="https://github.com/MaxStetsenko/Coinmama-mails/blob/main/mail-2/Header.jpg?raw=true" alt="Coinmama" padding="0">
       </mj-column>
     </mj-section>
     <mj-section background-color='#ffffff' css-class=" banner">
       <mj-column padding-top='10px' padding-bottom='10px'>
-        <mj-image src="https://github.com/MaxStetsenko/Coinmama-mails/blob/main/mail-1/banner.jpg?raw=true" alt="Banner BTC">
+        <mj-image src="https://github.com/MaxStetsenko/Coinmama-mails/blob/main/mail-2/banner.jpg?raw=true" alt="Banner BTC">
       </mj-column>
     </mj-section>
     <mj-section background-color='#ffffff' padding="0">
       <mj-column>
         <mj-text font-family="Arial" css-class="text" letter-spacing="0.4px">
-          <span style="line-height:30px" font-weight='400'>Hi (user’s name),</span>
+          <span style="line-height:30px" font-weight='400'>Hey (user’s name),</span>
         </mj-text>
         <mj-text font-family="Arial" css-class="text" padding-top="26px" letter-spacing="0.4px">
-          <span style="line-height:30px" font-weight='400'>Welcome to the crypto revolution - how nice of you to join us!</span>
-        </mj-text>
-        <mj-text font-family="Arial" css-class="text" padding-top="26px" letter-spacing="0.4px">
-          <span style="line-height:30px" font-weight="400" letter-spacing='2em'>It looks like your account is good to go. The crypto world is right at your fingertips and the ball is in your court. What will your next move be?</span>
+          <span style="line-height:30px" font-weight='400'>Come join the crypto party - we’re here for a good time and a long time!</span>
         </mj-text>
         <mj-text font-family="Arial" css-class="text" padding-top="26px" padding-bottom="30px" letter-spacing="0.4px">
-          <span style="line-height:30px" font-weight="400">Let me know what you need to get started 🙋‍♀️</span>
+          <span style="line-height:30px" font-weight="400">I noticed you haven’t placed any orders yet and was wondering what would help you complete an order?</span>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -53,7 +50,7 @@
       <mj-column>
         <mj-image css-class='btn-more' width='186px' src='https://github.com/MaxStetsenko/Coinmama-mails/blob/main/mail-1/btn1.png?raw=true' padding-bottom='0px' href='https://www.coinmama.com/login' target="_blank" alt="Buy Bitcoin instantly"></mj-image>
         <mj-text font-family="Cabin, Arial" align='center' font-size="18px" padding-top="28px" padding-bottom="40px">
-          <a style="color:#002C7F" font-weight="400" href="https://support.coinmama.com/hc/en-us" target="_blank">Talk to a customer support representative</a>
+          <a style="color:#002C7F" font-weight="400" href="https://support.coinmama.com/hc/en-us" target="_blank">Speak to my account manager</a>
         </mj-text>
         <mj-divider border-width="2px" border-style="solid" border-color="#002C7F" padding="0" />
       </mj-column>
